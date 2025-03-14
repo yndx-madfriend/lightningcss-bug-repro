@@ -1,0 +1,10 @@
+{
+    "extends": "@gravity-ui/tsconfig/tsconfig.json",
+    "include": ["**/*"],
+    "compilerOptions": {
+      "outDir": "../../dist/public/build",
+      "jsx": "react",
+      "types": ["typings.d.ts"]
+    }
+  }
+  

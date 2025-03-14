@@ -1,0 +1,23 @@
+{
+  "main.js": "js/main.a2ab21ca.js",
+  "runtime.js": "js/runtime.919a3d77.js",
+  "vendors.js": "js/vendors.96ae993a.js",
+  "css/188.a69b1a5c.css": "css/188.a69b1a5c.css",
+  "js/vendors.96ae993a.js.map": "js/vendors.96ae993a.js.map",
+  "js/main.a2ab21ca.js.map": "js/main.a2ab21ca.js.map",
+  "css/188.a69b1a5c.css.map": "css/188.a69b1a5c.css.map",
+  "entrypoints": {
+    "main": {
+      "assets": {
+        "js": [
+          "js/runtime.919a3d77.js",
+          "js/vendors.96ae993a.js",
+          "js/main.a2ab21ca.js"
+        ],
+        "css": [
+          "css/188.a69b1a5c.css"
+        ]
+      }
+    }
+  }
+}

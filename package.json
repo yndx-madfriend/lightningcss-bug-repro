@@ -1,0 +1,20 @@
+{
+  "name": "example-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "app-builder build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gravity-ui/app-builder": "^0.18.0",
+    "@gravity-ui/tsconfig": "^1.0.0",
+    "@gravity-ui/uikit": "^6.21.0",
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^19.0.4"
+  }
+}
